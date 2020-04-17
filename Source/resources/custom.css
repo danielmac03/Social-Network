@@ -1,0 +1,86 @@
+body, hr{
+    background-color: #2e3238;
+}
+
+h1, .social-icons{
+    font-size: 2rem;
+    display: inline-block;
+}
+
+.container{
+    border-left: 1px solid #2C2F33 !important;
+    border-right: 1px solid #2C2F33 !important;
+}
+
+.navbar, .modal-content{
+    background-color: #2C2F33 !important;
+}
+
+.sidebar{
+    font-size: 160%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+label, p, .close, .close:hover, .footer a, span, h2, .custom-file-input, h3{
+    color: #c0cfde !important;
+    font-weight: bold;
+    opacity: unset;
+}
+
+.btn-primary{
+    color: #c0cfde !important;
+    text-decoration: none !important;
+    border: 1px solid #4d47ba !important;
+    background-color: #4d47ba !important;
+}
+
+a{
+    text-decoration: none !important;
+    color: #4d47ba !important;
+    font-weight: bold !important;
+    background-color: #212529;
+    border-radius: .2em;
+    padding: .2em .4em;
+    font-family: 'Liberation Mono';
+}
+
+.modal-header, .modal-body, .modal-footer{
+    border-bottom: 1px solid #2e3238 !important;
+    border-top: 1px solid #2e3238 !important;
+}
+
+.fixed-bottom{
+    z-index: 0 !important;
+}
+
+.modal-lg{
+    max-width: 600px;
+}
+
+.info{
+    color: black !important;
+}
+
+.entry{
+    font-size: 16px !important;
+    line-height: 20px !important;
+    color: #c0cfde !important;
+}
+
+.reduced{
+    width: 80% !important;
+}
+
+.trends{
+    color: #c0cfde !important;
+    font-size: 130% !important;
+}
+
+.events1{
+    width: 50%;
+}
+
+.events2{
+    width: 35%;
+}

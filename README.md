@@ -1,0 +1,2 @@
+# Social-Network
+This project is a social network where you can create entries, comment on them, create and join events, you can also filter the entries in a row or hide for only shown to your followers.

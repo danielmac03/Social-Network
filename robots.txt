@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /validate_data/
+Disallow: /database/
+Disallow: /configs/
+Disallow: /resources/
+
+Sitemap: http://www.social-network.com/sitemap.xml
